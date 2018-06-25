@@ -1,7 +1,7 @@
 # NHLD_LWB_Model
 
 ## Description
-Model code and datasets for hydrologic modeling of inland lakes described in Hanson et al (XXXX)
+Model code and datasets for lake water budget (LWB) modeling of inland lakes described in Hanson et al (XXXX)
 
 ## Running the Code
 Sub-directories within /LWB that are necessary to run the LWB across the NHLD as presented in Hanson et al (XXXX) are available upon request. Please view /LWB/README_LWB.txt for details.
