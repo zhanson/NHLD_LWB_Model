@@ -1,4 +1,5 @@
 # NHLD_LWB_Model
+[![DOI](https://zenodo.org/badge/138641056.svg)](https://zenodo.org/badge/latestdoi/138641056)
 
 ## Description
 Model code and datasets for lake water budget (LWB) modeling of inland lakes described in Hanson et al (XXXX)
